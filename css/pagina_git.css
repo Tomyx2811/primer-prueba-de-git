@@ -1,0 +1,25 @@
+body {
+    margin-top: 20px;
+    font-family: cursive;
+    text-align: center;
+}
+
+header {
+    font-size: 60px;
+    font-family: cursive;
+    text-align: center;
+}
+
+img {
+    width: 60%;
+}
+
+p {
+    font-size: 50px;
+}
+
+div {
+    border: 2px red solid;
+    margin-left: 460px;
+    margin-right: 460px;
+}
